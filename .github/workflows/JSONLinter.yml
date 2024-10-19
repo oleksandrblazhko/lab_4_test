@@ -4,7 +4,7 @@ on:
  # для декількох значень використовується дужки, наприклад, [push, pull_request]
  push:
   # обробка подій лише для окремої гілки
-  branches: LW11
+  branches: LW4
 jobs:
  json_linter_test:
   # використання Docker-image із вказаною версією ОС
